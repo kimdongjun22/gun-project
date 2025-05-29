@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/DestructibleWallGenerator/Example/Scene/DestructibleWallGenerator.unity
+- path: Assets/POLYGON city pack/scene/DemoScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
