@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/PolygonalAssets/Stylized character pack lite/Scene/DemoScene.unity
+- path: Assets/POLYGON city pack/scene/DemoScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
