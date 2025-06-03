@@ -396,6 +396,7 @@
 -analyzer:"Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 "Assets/DestructibleWallGenerator/DWG/Editor/DWGEditor.cs"
 "Assets/MaterialTextureAssigner/Editor/MaterialTextureAssigner.cs"
+"Assets/SPUM/Sample/Script/Editor/PlayerManagerEditor.cs"
 -langversion:9.0
 /deterministic
 /optimize+
